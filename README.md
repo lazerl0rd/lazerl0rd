@@ -8,7 +8,7 @@ i'm a student and developer. here's some stuff i [can] do:
 
 \> Nextcloud Management, including setting up the hardware and software.
 
-\> Programming, with experience in C, C#, and Python.
+\> Programming, with experience in C, C#, JavaScript, and Python.
 
 \> Web Server Set-up and Management, with experience for NGINX.
 
