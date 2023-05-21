@@ -4,7 +4,7 @@ i'm a student and developer. here's some stuff i [can] do:
 
 \> Linux Kernel Development, with experience for Android Kernels.
 
-\> Linux System Administration, with experience for Arch Linux, RHEL, and Debian.
+\> Linux System Administration, with experience for Arch Linux, Enterprise Linux, and Debian.
 
 \> Nextcloud Management, including setting up the hardware and software.
 
