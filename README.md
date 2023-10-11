@@ -1,14 +1,16 @@
 hi everyone
 
-i'm a student and developer. here's some stuff i [can] do:
+i'm a developer at aws. here's some stuff i [can] do:
 
-\> Linux Kernel Development, with experience for Android Kernels.
+\> DNS
+
+\> Linux Kernel Development, with experience for Android devices.
 
 \> Linux System Administration, with experience for Arch Linux, Enterprise Linux, and Debian.
 
-\> Nextcloud Management, including setting up the hardware and software.
+\> Nextcloud/ownCloud [Infinite Scale] Management, including setting up the hardware and software.
 
-\> Programming, with experience in C, C#, JavaScript, and Python.
+\> Programming, with experience in C, C#, Java, JavaScript, and Python.
 
 \> Web Server Set-up and Management, with experience for NGINX.
 
