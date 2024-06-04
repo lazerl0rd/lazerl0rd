@@ -1,6 +1,6 @@
 hi everyone
 
-i'm a developer at aws. here's some stuff i [can] do:
+i'm a developer at ~~aws~~ amazon. here's some stuff i [can] do:
 
 \> DNS
 
